@@ -1,0 +1,2 @@
+# Useless Operator (rust version)
+
